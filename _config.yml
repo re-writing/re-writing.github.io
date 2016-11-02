@@ -1,0 +1,13 @@
+# Site settings
+title: Writing and re-writing
+description: We are writing a blog together
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  re-writing
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+sass:
+  sass_dir: _sass
